@@ -1,4 +1,4 @@
-# Machine Learning - Workshops
+# Machine Learning Workshops
 
 I attend a winter camp on Fundamentals of Machine Learning organized by @bogaziciai. I collect my notes and workshops code in this directory.
 
