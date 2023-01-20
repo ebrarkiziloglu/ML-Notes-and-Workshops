@@ -9,6 +9,6 @@ Here are the topics I cover here:
 * Logistic Regression
 * kNN
 * kMeans
+* Neural Networks
 * Decision Trees
 * Boosting Algorithms
-* Neural Networks
